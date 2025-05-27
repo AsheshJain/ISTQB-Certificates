@@ -2,7 +2,7 @@
 <hr><hr>
 
 ## ISTQB : Foundation Level Certificate in Software Testing 
-<img width="80%" height="10%" alt="Foundation Level Certificate in Software Testing" src="[https://user-images.githubusercontent.com/78098555/135397240-34ea329a-7c58-425f-8ba3-01db9250d080.png](https://github.com/AsheshJain/ISTQB-Certificates/blob/main/CTFL-124429India-AsheshJain-r1.pdf)">
+<img width="80%" height="10%" alt="Foundation Level Certificate in Software Testing" src="https://user-images.githubusercontent.com/78098555/135397240-34ea329a-7c58-425f-8ba3-01db9250d080.png">
 <hr>
 
 ## ISTQB : Agile Tester Foundation Level Certificate 
