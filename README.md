@@ -7,7 +7,7 @@
 
 ## ISTQB : Agile Tester Foundation Level Certificate 
 
-<img width="80%" alt="Agile Tester Foundation Level Certificate" src="https://user-images.githubusercontent.com/78098555/135398761-15b40faa-85a4-4151-b91c-42953d1d9d5d.PNG">
+<img width="80%" alt="Agile Tester Foundation Level Certificate" src="https://user-images.githubusercontent.com/78098555/135398761-15b40faa-85a4-4151-b91c-42953d1d9d5d.png">
 <hr>
 
 
